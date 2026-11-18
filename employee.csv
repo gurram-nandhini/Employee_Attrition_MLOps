@@ -1,0 +1,201 @@
+Department,JobRole,Salary,YearsAtCompany,Satisfaction,Attrition
+Sales,Sales Executive,43846,15,4,No
+Finance,Finance Manager,60535,12,4,No
+Finance,Financial Analyst,67089,5,4,No
+HR,HR Manager,107291,15,1,Yes
+HR,HR Executive,85076,7,5,No
+Operations,Coordinator,89291,8,3,No
+Sales,Account Manager,70343,6,2,Yes
+Finance,Finance Manager,35141,2,3,No
+IT,Tester,69165,14,5,No
+Sales,Account Manager,94793,0,5,Yes
+HR,Recruiter,30492,2,5,Yes
+Operations,Operations Manager,90144,3,3,No
+Finance,Finance Manager,77715,4,4,Yes
+Finance,Financial Analyst,47273,2,2,Yes
+Finance,Finance Manager,79459,0,4,Yes
+Finance,Accountant,95583,10,4,Yes
+HR,Recruiter,46025,15,2,Yes
+Sales,Sales Manager,33649,1,2,Yes
+Operations,Operations Executive,76403,4,1,Yes
+HR,HR Manager,104538,8,1,No
+HR,Recruiter,43477,14,3,No
+IT,Tester,84798,11,3,Yes
+Sales,Account Manager,48956,12,1,Yes
+Operations,Coordinator,81309,9,3,No
+Finance,Finance Manager,75832,6,4,Yes
+Finance,Accountant,34930,3,2,Yes
+HR,HR Manager,88251,13,2,No
+Operations,Operations Executive,102193,12,2,No
+HR,HR Executive,85441,0,3,No
+HR,Recruiter,40229,11,2,Yes
+HR,HR Executive,43414,1,4,No
+IT,Data Analyst,55058,11,2,No
+Sales,Sales Manager,72330,13,3,No
+HR,HR Manager,37411,2,2,Yes
+Operations,Operations Executive,92005,6,1,Yes
+Sales,Account Manager,80574,1,4,Yes
+Operations,Operations Executive,92385,9,2,Yes
+Operations,Operations Executive,55674,14,2,Yes
+IT,Tester,27220,1,4,Yes
+Finance,Financial Analyst,95945,6,5,No
+Sales,Sales Manager,63223,15,4,No
+Finance,Financial Analyst,75739,4,5,No
+Finance,Accountant,91061,2,5,No
+IT,IT Manager,35931,7,3,No
+Sales,Sales Executive,34983,8,4,Yes
+Operations,Coordinator,37380,10,2,Yes
+HR,HR Manager,41942,5,3,Yes
+Operations,Operations Executive,46616,15,3,Yes
+Finance,Finance Manager,91999,8,5,No
+Finance,Accountant,72215,4,5,No
+Finance,Accountant,111604,15,3,No
+Sales,Sales Executive,97904,14,4,Yes
+IT,Developer,100824,7,2,Yes
+HR,Recruiter,41698,0,5,No
+HR,HR Executive,55946,9,3,Yes
+Sales,Sales Manager,94059,8,3,Yes
+HR,HR Manager,44542,2,4,Yes
+Sales,Sales Manager,41006,10,4,No
+Finance,Accountant,87439,13,1,Yes
+Finance,Financial Analyst,82268,1,2,Yes
+Operations,Operations Manager,105974,11,1,Yes
+Finance,Accountant,92346,2,4,Yes
+IT,Tester,46616,11,1,No
+Operations,Operations Manager,86248,6,2,Yes
+HR,HR Manager,84229,0,3,Yes
+IT,IT Manager,91869,15,4,No
+Operations,Operations Executive,84786,2,3,No
+IT,Tester,94459,9,5,Yes
+Sales,Sales Executive,58658,2,5,Yes
+HR,HR Executive,44610,14,1,Yes
+Finance,Accountant,70134,11,5,No
+Sales,Sales Manager,53524,12,4,No
+HR,Recruiter,40161,6,4,No
+Sales,Account Manager,42144,7,1,Yes
+Finance,Financial Analyst,85816,10,4,No
+HR,HR Executive,74717,12,4,No
+IT,Tester,78389,13,3,No
+IT,Data Analyst,77163,0,1,Yes
+HR,Recruiter,75379,10,3,No
+Finance,Accountant,70301,1,5,Yes
+Operations,Coordinator,35821,4,4,No
+HR,HR Executive,100180,13,1,Yes
+Sales,Account Manager,61215,4,5,Yes
+Operations,Operations Executive,50265,12,5,No
+Finance,Financial Analyst,90333,7,1,No
+Finance,Finance Manager,80024,3,5,No
+Sales,Sales Manager,34711,5,3,Yes
+IT,IT Manager,48113,8,3,Yes
+Finance,Financial Analyst,40502,12,3,Yes
+Operations,Operations Executive,54753,9,4,Yes
+HR,HR Manager,48798,14,5,No
+Operations,Coordinator,90294,13,4,No
+Operations,Operations Manager,75979,12,5,No
+IT,Tester,104415,9,5,No
+Operations,Operations Executive,82260,4,1,Yes
+IT,IT Manager,75008,6,2,Yes
+IT,Data Analyst,61852,1,4,No
+Finance,Financial Analyst,34815,5,3,No
+Finance,Accountant,46714,14,1,No
+Sales,Sales Manager,75342,6,1,Yes
+Operations,Operations Executive,26506,1,3,Yes
+Sales,Account Manager,39964,10,4,No
+Operations,Coordinator,58339,15,1,No
+Sales,Account Manager,102491,13,1,No
+Finance,Financial Analyst,61925,4,1,No
+Finance,Accountant,83071,7,3,No
+Finance,Accountant,63409,8,1,No
+Finance,Financial Analyst,40719,3,3,Yes
+HR,Recruiter,55781,4,3,No
+Finance,Accountant,35020,3,3,Yes
+IT,IT Manager,96918,15,4,No
+Finance,Finance Manager,51047,11,3,No
+HR,Recruiter,66946,13,4,No
+HR,Recruiter,109202,13,4,No
+HR,Recruiter,84438,15,5,No
+HR,HR Executive,58299,1,4,No
+Sales,Account Manager,79811,14,3,No
+Sales,Account Manager,81086,1,3,Yes
+IT,Data Analyst,51213,7,2,Yes
+Sales,Account Manager,80349,9,3,Yes
+HR,Recruiter,92089,5,1,Yes
+Finance,Accountant,67469,2,5,No
+Finance,Financial Analyst,59858,3,5,No
+HR,HR Manager,50759,13,1,Yes
+Operations,Operations Manager,48380,5,4,No
+HR,Recruiter,96022,4,1,Yes
+Sales,Sales Manager,79688,14,4,No
+Finance,Accountant,48494,2,1,Yes
+HR,Recruiter,71086,14,3,No
+Finance,Financial Analyst,82261,14,4,No
+HR,HR Executive,73428,9,4,No
+HR,HR Executive,76385,2,3,No
+Sales,Sales Manager,45424,2,5,Yes
+HR,HR Manager,75246,4,4,Yes
+Finance,Financial Analyst,66787,9,2,Yes
+IT,Data Analyst,93242,2,4,Yes
+Finance,Finance Manager,44454,7,4,No
+Sales,Sales Manager,36590,1,2,Yes
+IT,Developer,66916,8,4,No
+HR,HR Manager,60585,0,5,No
+Operations,Operations Executive,86561,11,5,No
+IT,Tester,53282,0,4,No
+IT,IT Manager,92561,3,4,Yes
+HR,HR Executive,60592,2,2,Yes
+Operations,Operations Manager,49653,13,4,No
+Operations,Coordinator,33345,0,2,No
+Sales,Account Manager,100339,6,3,Yes
+IT,Data Analyst,45186,9,2,Yes
+Operations,Coordinator,100950,8,2,No
+Sales,Sales Manager,56465,10,1,Yes
+Operations,Operations Executive,45938,12,5,No
+IT,Developer,53529,6,1,No
+Operations,Coordinator,83629,13,1,Yes
+IT,Tester,60953,5,5,Yes
+HR,HR Manager,97991,15,3,No
+Finance,Finance Manager,77369,8,3,Yes
+Sales,Sales Manager,66255,11,4,No
+HR,HR Manager,86224,14,2,Yes
+HR,Recruiter,107403,12,1,Yes
+Finance,Finance Manager,69427,13,4,No
+Operations,Operations Manager,45341,8,1,Yes
+Finance,Finance Manager,53615,0,3,No
+HR,Recruiter,92208,7,5,Yes
+HR,HR Manager,42634,2,5,Yes
+HR,Recruiter,108240,14,2,Yes
+Operations,Operations Executive,69782,3,4,No
+IT,Tester,70710,3,4,No
+Sales,Sales Manager,50793,3,3,No
+IT,Developer,101432,10,1,Yes
+Sales,Account Manager,38324,9,2,Yes
+Sales,Sales Executive,63907,15,4,Yes
+Sales,Sales Executive,61488,6,5,No
+Finance,Financial Analyst,63209,4,1,No
+Finance,Financial Analyst,58189,0,4,No
+Finance,Finance Manager,35354,0,5,No
+HR,Recruiter,46791,5,5,No
+Finance,Finance Manager,48467,14,3,No
+Sales,Account Manager,74672,8,1,Yes
+Operations,Operations Executive,66361,14,2,Yes
+HR,Recruiter,65804,1,5,Yes
+Operations,Coordinator,67480,1,5,Yes
+Sales,Account Manager,89740,13,4,Yes
+HR,HR Manager,64493,1,1,Yes
+Finance,Accountant,70357,0,1,Yes
+HR,Recruiter,73301,6,3,No
+HR,Recruiter,87470,14,3,No
+Sales,Sales Manager,81365,11,1,Yes
+IT,Data Analyst,48335,1,4,No
+IT,Data Analyst,57840,13,3,No
+IT,Developer,95721,13,1,Yes
+Finance,Finance Manager,63389,12,1,Yes
+Finance,Accountant,80240,14,3,No
+Finance,Financial Analyst,42388,3,4,Yes
+IT,IT Manager,73199,15,5,No
+Operations,Operations Manager,68076,5,3,No
+Sales,Account Manager,83221,12,2,Yes
+IT,Developer,72646,9,5,No
+Sales,Sales Manager,64646,12,3,No
+IT,Tester,104324,10,2,No
+Operations,Coordinator,72892,10,3,Yes
